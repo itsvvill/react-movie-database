@@ -11,7 +11,7 @@
 - HTML5
 
 ## Images
-[Image](https://github.com/itsvvill/react-movie-database/blob/main/public/RMDB.png)
+[Home page without hero image](https://github.com/itsvvill/react-movie-database/blob/main/public/RMDB.png)
 
 ## Usage
 Simply type a movie or query in the search bar and the results will automatically populate. 
