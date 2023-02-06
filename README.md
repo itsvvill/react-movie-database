@@ -8,7 +8,6 @@
 - React-router
 - JavaScript
 - Styled-Components
-- CSS
 - HTML5
 
 ## Usage
