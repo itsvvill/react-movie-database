@@ -3,6 +3,7 @@
 [React Movie Database](https://rmoviedatabase.netlify.app/) was created to be a fast and beautiful way to search information on the latest movies.
 
 ## Technologies and Languages
+
 - ReactJS
 - React-router
 - JavaScript
@@ -10,12 +11,14 @@
 - CSS
 - HTML5
 
-## Images
-[Home page without hero image](https://github.com/itsvvill/react-movie-database/blob/main/public/RMDB.png)
-
 ## Usage
-Simply type a movie or query in the search bar and the results will automatically populate. 
+
+Simply type a movie or query in the search bar and the results will automatically populate.
+
+![Home page](./public/RMDB.png)
+
 Clicking on a movie poster will bring up additional information including:
+
 - Synopsis
 - Director
 - Runtime
@@ -24,5 +27,8 @@ Clicking on a movie poster will bring up additional information including:
 - Revenue
 - Actors/Actresses
 
+![Movie information](./public/RMDB_Movie_Info.png)
+
 ## License
+
 All of the data, media, and information contained on the React MovieDB is sourced via the [TMDB API](https://developers.themoviedb.org/3)
